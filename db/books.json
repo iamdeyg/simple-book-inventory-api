@@ -20,5 +20,10 @@
   },
   { "title": "My new book", "author": "Rising Odegua", "year": 2022 },
   { "title": "Things fall apart", "author": "Chinua Achebe", "year": 2000 },
-  { "title": "My newer book", "author": "Aderinola Adedeji", "year": 2024 }
+  { "title": "My newer book", "author": "Aderinola Adedeji", "year": 2024 },
+  {
+    "title": "Things will never fall apart",
+    "author": "Adesiji Achebe",
+    "year": 2025
+  }
 ]
